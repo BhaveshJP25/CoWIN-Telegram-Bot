@@ -15,7 +15,7 @@ Step 2: Get District ID:
 
 Step 3: Changes to be made in main.py
                 a. Add your Telegram BOT ID
-                      You can make your Te;egram Bot From https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0
+                      You can make your Telegram Bot From https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0
                 b. Change Your District ID.
                 c. Date For Which You Want To Book Your Vaccine.
                 d. Age Limit Category (18+ or 45+)
